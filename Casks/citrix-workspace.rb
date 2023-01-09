@@ -2,7 +2,7 @@ cask "citrix-workspace" do
     version "22.11.0.12,2211"
     sha256 :no_check
   
-    url "https://downloads.citrix.com/21446/CitrixWorkspaceApp.dmg"
+    url "https://downloads.citrix.com/21446/CitrixWorkspaceApp.dmg?__gda__=exp=1673256970~acl=/*~hmac=33d9bd89b11adf9222e605007755f4313f228ca4596d9e94d54518eea2ef66c2"
     name "Citrix Workspace"
     desc "Managed desktop virtualization solution"
     homepage "https://www.citrix.com/"
